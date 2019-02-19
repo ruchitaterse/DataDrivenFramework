@@ -1,0 +1,5 @@
+14:36:41,197 DEBUG devpinoyLogger:80 - Config file loaded !!!
+14:36:41,200 DEBUG devpinoyLogger:94 - OR file loaded !!!
+14:36:44,809 DEBUG devpinoyLogger:104 - Chrome Launched...!!!
+14:36:45,876 DEBUG devpinoyLogger:112 - Navigated to test url : https://minervahrms.com/Planit/
+14:36:48,977 DEBUG devpinoyLogger:126 - Test Execution Completed...!!!

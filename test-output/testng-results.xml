@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1248" started-at="2019-02-18T09:06:47Z" finished-at="2019-02-18T09:06:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1248" started-at="2019-02-18T09:06:47Z" finished-at="2019-02-18T09:06:48Z">
+      <class name="com.framework.rough.TestProperties">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.framework.rough.TestProperties@43814d18]" name="setUp" is-config="true" duration-ms="5825" started-at="2019-02-18T09:06:41Z" finished-at="2019-02-18T09:06:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="preRequist()[pri:0, instance:com.framework.rough.TestProperties@43814d18]" name="preRequist" is-config="true" duration-ms="1210" started-at="2019-02-18T09:06:47Z" finished-at="2019-02-18T09:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preRequist -->
+        <test-method status="PASS" signature="getF(java.lang.String, java.lang.String)[pri:0, instance:com.framework.rough.TestProperties@43814d18]" name="getF" duration-ms="5" started-at="2019-02-18T09:06:48Z" data-provider="getDataProvider" finished-at="2019-02-18T09:06:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rulihilk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chjkhkjh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getF -->
+        <test-method status="PASS" signature="getF(java.lang.String, java.lang.String)[pri:0, instance:com.framework.rough.TestProperties@43814d18]" name="getF" duration-ms="1" started-at="2019-02-18T09:06:48Z" data-provider="getDataProvider" finished-at="2019-02-18T09:06:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[itj,gk,kj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aajkhjkhjk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getF -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.rough.TestProperties@43814d18]" name="tearDown" is-config="true" duration-ms="696" started-at="2019-02-18T09:06:48Z" finished-at="2019-02-18T09:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.framework.rough.TestProperties -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
